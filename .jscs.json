@@ -1,0 +1,14 @@
+
+{
+  "preset": "airbnb",
+
+  "maximumLineLength": 9999,
+  "requirePaddingNewLinesAfterBlocks": false,
+  "requireTrailingComma": false,
+  "safeContextKeyword": false,
+  "disallowQuotedKeysInObjects": false,
+  "disallowMultipleVarDecl": false,
+  "requireShorthandArrowFunctions": false,
+  "requirePaddingNewLinesBeforeLineComments": false,
+  "requireCamelCaseOrUpperCaseIdentifiers": false
+}
