@@ -1,0 +1,26 @@
+{
+  "name": "iz.js",
+  "version": "1.0.0",
+  "description": "Predicate Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerekSeverson/iz.js.git"
+  },
+  "keywords": [
+    "is",
+    "iz.js",
+    "predicate",
+    "type",
+    "check"
+  ],
+  "author": "Derek Severson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DerekSeverson/iz.js/issues"
+  },
+  "homepage": "https://github.com/DerekSeverson/iz.js#readme"
+}
