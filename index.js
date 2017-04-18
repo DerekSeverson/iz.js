@@ -67,6 +67,10 @@ is.nan = function (value) {    // NaN is number :) Also it is the only value whi
   return value !== value;
 };
 
+is.nil = function (value) {
+  return value == null;
+};
+
 is.null = function (value) {
   return value === null;
 };
